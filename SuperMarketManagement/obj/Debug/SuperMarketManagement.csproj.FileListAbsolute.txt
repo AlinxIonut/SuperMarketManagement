@@ -1,0 +1,10 @@
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe.config
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.csprojAssemblyReference.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Login.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Properties.Resources.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.csproj.GenerateResource.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.csproj.CoreCompileInputs.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.exe
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.pdb

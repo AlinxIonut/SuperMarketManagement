@@ -1,0 +1,79 @@
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe.config
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csprojAssemblyReference.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Login.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.Main.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Properties.Resources.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.GenerateResource.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.CoreCompileInputs.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.exe
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Models.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Repository.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Models.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Repository.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddCategory.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.CopyComplete
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddUser.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddProduct.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddPhotos.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.ProductView.resources
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Newtonsoft.Json.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Newtonsoft.Json.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\CsvHelper.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Buffers.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Memory.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Numerics.Vectors.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\CsvHelper.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Buffers.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Memory.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe.config
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.exe
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\CsvHelper.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Models.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Repository.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Buffers.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Memory.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Models.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\SuperMarketManagement.Repository.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\CsvHelper.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Buffers.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Memory.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.AssemblyReference.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddCategory.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddPhotos.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddUser.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Login.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.Main.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.AddProduct.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Forms.ProductView.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.Properties.Resources.resources
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.GenerateResource.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.CopyComplete
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.exe
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement\obj\Debug\SuperMarketManagement.UI.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,22 @@
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Repository.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Repository.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Models.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Models.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csprojAssemblyReference.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csproj.CoreCompileInputs.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csproj.CopyComplete
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Repository.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Repository.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Models.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\SuperMarketManagement.Models.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csproj.AssemblyReference.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.csproj.CopyComplete
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Repository\obj\Debug\SuperMarketManagement.Repository.pdb

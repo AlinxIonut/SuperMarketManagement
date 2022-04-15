@@ -1,0 +1,12 @@
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\bin\Debug\SuperMarketManagement.Models.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\bin\Debug\SuperMarketManagement.Models.pdb
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.csprojAssemblyReference.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.csproj.CoreCompileInputs.cache
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.dll
+E:\Faculate AN2\Medii si instrumente de programare\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\bin\Debug\SuperMarketManagement.Models.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\bin\Debug\SuperMarketManagement.Models.pdb
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.csproj.AssemblyReference.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.dll
+D:\Proiecte c#\SuperMarketManagement\SuperMarketManagement.Models\obj\Debug\SuperMarketManagement.Models.pdb
